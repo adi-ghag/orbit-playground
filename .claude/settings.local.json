@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(docker compose:*)",
+      "Bash(sudo chown:*)",
+      "Bash(sudo chmod:*)",
+      "Bash(sudo mkdir:*)",
+      "Bash(chmod:*)"
+    ]
+  }
+}
